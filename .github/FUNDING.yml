@@ -1,3 +1,6 @@
 github: funkypenguin
 patreon: funkypenguin
-custom: [ "https://geek-kitchen.funkypenguin.co.nz", "https://www.funkypenguin.co.nz"]
+custom: 
+  - "https://www.funkypenguin.co.nz"
+  - "https://geek-cookbook.funkypenguin.co.nz"
+  - "https://discourse.geek-kitchen.funkypenguin.co.nz"
