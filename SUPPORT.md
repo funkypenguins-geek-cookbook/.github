@@ -1,1 +1,1 @@
-Need support? Feel free to reach out to @funkypenguin!
+Need support? Have a read of https://geek-cookbook.funkypenguin.co.nz/support/
